@@ -1,187 +1,238 @@
-# Auditoria de Produto nº 01 — Kit NR-1 / PGR (Gerenciamento de Riscos Ocupacionais)
+# Auditoria de Produto nº 01 — Kit NR-1 Riscos Psicossociais
 
-**Data da auditoria:** 14/08/2026
-**Produto auditado:** Kit NR-1 / PGR — Gerenciamento de Riscos Ocupacionais *(confirmar nome comercial exato na Hotmart/Eduzz)*
-**Norma de referência:** NR-1, capítulo 1.5, com a redação da Portaria MTE nº 1.419/2024
-**Veredito preliminar:** **atualização obrigatória e urgente** — o produto está vendendo contra uma norma cuja exigência central passou a ser fiscalizável em maio/2026.
+**Data:** 14/08/2026
+**Produto:** KIT_NR1_RISCOS_PSICOSSOCIAIS — 36 arquivos (14 POPs, 7 formulários, 9 ferramentas, 6 bônus)
+**Norma de referência:** NR-1 consolidada (texto atualizado 2025), com as redações das Portarias MTE nº 1.419, de 27/08/2024, e nº 765, de 15/05/2025
+**Status:** auditoria **executada** sobre os arquivos reais
+
+> **Veredito:** o kit está **atualizado quanto ao prazo e à base legal** — bem acima da média do mercado. As não conformidades encontradas **não são de desatualização**; são de **enquadramento normativo** e de **controle de documentos**. Duas delas comprometem a rastreabilidade que é justamente a promessa central do produto.
 
 ---
 
-## 1. Por que este produto foi escolhido
+## 1. Método
 
-Três critérios, nesta ordem:
+Extração integral do texto dos 36 arquivos (docx/xlsx/pptx) e varredura cruzada contra o texto consolidado da NR-1. Foram verificados: base legal citada, datas de vigência, numeração de itens da norma, campos obrigatórios do inventário, critérios de avaliação de risco, prazos de retenção, integridade de referências cruzadas entre documentos, tratamento de dados pessoais sensíveis e delimitação de escopo clínico.
 
-| Critério | Kit NR-1 / PGR |
+---
+
+## 2. Correção da base normativa — o que o texto consolidado mostrou
+
+Registro aqui as correções em relação ao que eu havia escrito na versão anterior deste documento, porque elas mudam o conteúdo técnico da correção:
+
+| Ponto | Correção |
 |---|---|
-| **A norma já mudou e já é fiscalizável** | Sim. Prazo esgotado em 25/05/2026, sem nova prorrogação. |
-| **O desatualizado gera dano ao cliente** | Sim. Um PGR sem inventário de riscos psicossociais é autuável hoje. |
-| **Encaixa na vertical de entrada** | Sim. Indústria PME é exatamente quem tem PGR e não tem esse capítulo. |
+| **Data de vigência** | O correto é **26/05/2026** — que é o que o kit usa, de forma consistente, em 19 ocorrências. Meu "25/05/2026" vinha de fonte secundária que descrevia o fim do prazo anterior, não o início da vigência. O kit está certo. |
+| **Data da Portaria 765** | É de **15/05/2025** (publicada no DOU em 16/05/2025). |
+| **Itens numerados** | Agora confirmados no texto consolidado — deixam de ser incerteza e viram instrumento de auditoria. |
 
-É o único item do catálogo em que o material desatualizado deixa de ser "incompleto" e passa a ser **passivo**: o cliente aplica o kit, acha que está coberto, e não está. Isso é risco de marca, não só de venda.
+**Os três itens que sustentam a exigência de FRPRT:**
 
-### Por que não escolhi o ISO 9001 primeiro
+- **1.5.3.1.4** — "O gerenciamento de riscos ocupacionais deve abranger os riscos que decorrem dos agentes físicos, químicos, biológicos, riscos de acidentes e riscos relacionados aos **fatores ergonômicos, incluindo os fatores de risco psicossociais relacionados ao trabalho**."
+- **1.5.3.2.1** — "A organização deve considerar as condições de trabalho, nos termos da **NR-17**, incluindo os fatores de risco psicossociais relacionados ao trabalho."
+- **1.5.4.4.5.3** — "Para a probabilidade de ocorrência das lesões ou agravos à saúde decorrentes de **fatores ergonômicos, incluindo os fatores de riscos psicossociais** relacionados ao trabalho, a avaliação de risco deve considerar **as exigências da atividade de trabalho e a eficácia das medidas de prevenção implementadas**."
 
-Foi o candidato natural — é o núcleo do catálogo e a transição está no plano de 90 dias como campanha "Virada ISO". Mas a **ISO 9001:2026 ainda não foi publicada**: em abril/2026 o projeto chegou a FDIS (última etapa antes da publicação) e a publicação segue prevista para **setembro/2026**, com transição de três anos até setembro/2029.
+**A leitura que muda o produto:** a NR-1 **não** criou uma categoria autônoma de risco psicossocial. Ela alojou os FRPRT **dentro dos fatores ergonômicos**. Isso não é detalhe de redação — determina onde o risco entra no inventário e, principalmente, **qual critério de probabilidade é válido**.
 
-Consequência prática: qualquer atualização do kit ISO 9001 feita agora seria escrita contra um texto que ainda pode mudar na redação final — e vendida como "atualizado" sem lastro. **A auditoria do ISO 9001 é a nº 02, e a data de gatilho é a publicação em setembro.** Já dá para preparar a estrutura (mapa de-para de requisitos, capa de revisão, comunicação de transição) sem escrever conteúdo normativo.
+**E os dois itens de documentação:**
 
-Um dado que ajuda no planejamento: a revisão é evolutiva, não uma ruptura — mantém as dez seções e o Anexo SL. O trabalho de atualização do acervo tende a ser de ajuste e reforço (cultura da qualidade, comportamento ético, papel da liderança), não de reescrita.
-
----
-
-## 2. Base normativa vigente — o que fixar no produto
-
-| Ato | Data | O que fez |
-|---|---|---|
-| **Portaria MTE nº 1.419** | 27/08/2024 | Deu nova redação ao capítulo 1.5 da NR-1 e incluiu expressamente os **fatores de riscos psicossociais relacionados ao trabalho** no GRO/PGR. |
-| **Portaria MTE nº 765** | 16/05/2025 | Prorrogou o **início da vigência** do capítulo 1.5 para **25/05/2026**. O período entre maio/2025 e maio/2026 foi fase educativa/orientativa — auditores-fiscais orientavam sem autuar. |
-| **Guia de Informações sobre os Fatores de Riscos Psicossociais Relacionados ao Trabalho** (MTE) | 2025 | Documento orientativo oficial. Não é norma, mas é o parâmetro que o auditor-fiscal usa. |
-
-**Situação em agosto/2026:** vigência plena, fase educativa encerrada, fiscalização com autuação em curso. Não houve nova prorrogação.
-
-> ⚠ **Nota de rastreabilidade:** o acesso ao gov.br está bloqueado neste ambiente, então a numeração dos itens abaixo marcada com ⚠ precisa ser conferida por você contra o texto consolidado da NR-1 antes de publicar. O item que consegui confirmar é o **1.5.3.2.1** — a organização deve considerar as condições de trabalho, nos termos da **NR-17**, incluídos os fatores de riscos psicossociais relacionados ao trabalho. As demais exigências abaixo estão descritas pela obrigação, não pelo número, justamente para não carregar citação errada para dentro de um produto.
+- **1.5.7.3.2** — o inventário deve contemplar, no mínimo, nove informações (alíneas "a" a "i").
+- **1.5.7.3.3.1** — "O histórico das atualizações deve ser mantido por um período mínimo de **20 (vinte) anos**."
 
 ---
 
-## 3. O que a norma passou a exigir (e o que o kit precisa cobrir)
+## 3. O que o kit já faz certo
 
-O erro mais comum do mercado é tratar isso como "programa de saúde mental" ou "pesquisa de clima". Não é. A exigência é de **gestão de risco ocupacional**, com a mesma mecânica dos riscos físicos, químicos e ergonômicos:
+Auditoria não é só lista de defeito. Estes pontos estão conformes e vários são diferenciais reais:
 
-1. **Identificar** os fatores de risco psicossocial presentes na organização do trabalho.
-2. **Avaliar** o risco (probabilidade × severidade), com critério declarado.
-3. **Registrar no inventário de riscos ocupacionais** — junto com os demais riscos, não em documento apartado.
-4. **Definir medidas de prevenção** e registrá-las no **plano de ação**, com responsável e prazo.
-5. **Acompanhar a eficácia** das medidas e reavaliar.
-6. **Capacitar e informar** os trabalhadores sobre os riscos e as medidas.
-7. **Integrar com NR-17** (organização do trabalho) e com o **PCMSO**, quando houver repercussão em saúde.
-
-O objeto da avaliação é **a organização do trabalho** — carga, ritmo, jornada, autonomia, clareza de papéis, suporte da chefia, assédio, violência de terceiros, insegurança no emprego. Não é o indivíduo.
-
----
-
-## 4. Protocolo de auditoria do produto
-
-Aplique item a item sobre cada arquivo do kit. Marque **C** (conforme), **NC** (não conforme) ou **NA**.
-
-### 4.1 Conformidade normativa
-
-| # | Verificação | Onde olhar |
-|---|---|---|
-| 1 | O material cita a Portaria MTE nº 1.419/2024 e a redação vigente do capítulo 1.5? | Capa, seção de base legal |
-| 2 | Alguma parte ainda afirma vigência em 26/05/2025 ou menciona "fase educativa"/"sem autuação"? | Todo o kit — ⚠ maior fonte de erro |
-| 3 | Fatores psicossociais aparecem **dentro** do inventário de riscos, e não como anexo separado? | Modelo de inventário |
-| 4 | O plano de ação contempla medidas para riscos psicossociais com responsável e prazo? | Modelo de plano de ação |
-| 5 | Há vínculo explícito com a **NR-17** (organização do trabalho)? | Metodologia |
-| 6 | Há previsão de acompanhamento da eficácia e reavaliação periódica? | Procedimento de monitoramento |
-| 7 | Há registro de informação/capacitação dos trabalhadores sobre esses riscos? | Modelo de registro de treinamento |
-| 8 | Há interface definida com o PCMSO? | Procedimento |
-
-### 4.2 Segurança de conteúdo (armadilhas que geram passivo)
-
-| # | Verificação | Por que importa |
-|---|---|---|
-| 9 | O material **não** promete diagnóstico, triagem clínica ou "avaliação psicológica"? | NR-1 exige gestão de risco organizacional. Instrumento clínico exige profissional habilitado e cria responsabilidade que a empresa não quer. |
-| 10 | O instrumento de coleta produz resultado **agregado/anonimizado**, nunca nominal? | Resposta sobre sofrimento mental é **dado pessoal sensível** (LGPD). Inventário com nome de trabalhador é violação e é constrangimento. |
-| 11 | Há orientação de base legal e retenção para o tratamento desses dados? | LGPD, art. 11. Faltando isso, o cliente cumpre a NR-1 e descumpre a LGPD. |
-| 12 | Há canal/fluxo definido para o que a coleta revelar (assédio, violência)? | Coletar e não tratar é pior que não coletar — vira prova contra o empregador. |
-| 13 | Grupos pequenos têm regra de agregação mínima (ex.: não reportar setor com menos de 5 respondentes)? | Abaixo disso, "anônimo" é identificável. |
-
-### 4.3 Qualidade de produto
-
-| # | Verificação |
+| Verificação | Resultado |
 |---|---|
-| 14 | Campos editáveis em branco para personalização do cliente (padrão do seu catálogo) |
-| 15 | Capa com **revisão, data e histórico de alterações** |
-| 16 | Rodapé com código do documento e número de revisão em todas as páginas |
-| 17 | Terminologia padronizada: "fatores de riscos psicossociais relacionados ao trabalho" (redação da norma), não "riscos psicológicos" ou "saúde mental" |
-| 18 | Sem identidade visual da Leval Serviços |
-| 19 | Sumário/índice do kit batendo com os arquivos realmente entregues |
+| Portaria 1.419/2024 citada | ✔ 60 ocorrências, em 25 dos 36 arquivos |
+| Data de vigência correta e consistente | ✔ 26/05/2026 em 19 ocorrências, **zero** ocorrências de data antiga |
+| Nenhum resíduo de "fase educativa em curso" | ✔ todas as menções estão no passado, corretamente |
+| LGPD | ✔ art. 5º, II e art. 11 citados, DPO, dado sensível, acesso restrito, trilha de auditoria |
+| Anonimato do questionário | ✔ vedação de matrícula, e-mail, IP e geolocalização; urna coletiva na versão física |
+| Delimitação de escopo clínico | ✔ avaliação clínica é competência exclusiva do médico do trabalho (POP-013) |
+| Interface com PCMSO / NR-7 | ✔ presente e bem construída no POP-013 |
+| Lei nº 14.457/2022 (CIPA / assédio) | ✔ 48 ocorrências |
+| ISO 45003 como referência técnica | ✔ 25 ocorrências |
+| Integridade das referências entre POPs | ✔ os 14 POPs e 7 formulários citados existem — zero referência órfã |
+| Estrutura de 15 seções com RACI, KPIs, histórico de revisões | ✔ em todos os 14 POPs |
+| Sem identidade visual da Leval | ✔ zero ocorrências |
+
+Nenhuma das lacunas que eu havia levantado como hipótese na versão anterior se confirmou. O kit não estava desatualizado.
 
 ---
 
-## 5. Lacunas prováveis (hipótese a confirmar com os arquivos)
+## 4. Não conformidades
 
-Se o kit foi produzido antes de agosto/2024 — ou entre 2024 e 2025 sem revisão —, a aposta é que faltem:
+### 🔴 NC-01 — Colisão de códigos de formulário entre os POPs e os formulários entregues
+**Gravidade: crítica. É o achado principal.**
 
-| Lacuna | Gravidade |
-|---|---|
-| Fatores psicossociais ausentes do modelo de inventário de riscos | **Crítica** — é o núcleo da exigência |
-| Nenhum instrumento de identificação/avaliação psicossocial | **Crítica** |
-| Base legal citando só a Portaria 6.730/2020, sem a 1.419/2024 | **Alta** — data o produto na hora |
-| Menção a "fase educativa" ou "vigência em maio de 2025" | **Alta** — informação hoje falsa |
-| Plano de ação sem linhas de medida organizacional | Média |
-| Nada sobre LGPD/anonimização | **Alta** — cria passivo novo no cliente |
-| Sem matriz de correlação com NR-17 | Média |
+Os códigos `FOR-PSI-001` a `FOR-PSI-007` são usados na seção 12 de cada POP como numeração **local**, reiniciando a cada procedimento — mas a pasta `/Formularios` entrega sete documentos com **esses mesmos códigos** e significados fixos. O mesmo código aponta para documentos diferentes conforme o POP que se está lendo.
 
----
-
-## 6. Especificação da atualização — o que produzir
-
-Ordem de execução. Os cinco primeiros fecham a conformidade; os três últimos são o que transforma correção em upgrade vendável.
-
-| # | Documento | Ação | Conteúdo mínimo |
+| Código | Formulário entregue | POP-PSI-001 usa como | POP-PSI-003 usa como |
 |---|---|---|---|
-| 1 | **Modelo de Inventário de Riscos Ocupacionais** | Revisar | Bloco de fatores psicossociais integrado à mesma tabela dos demais riscos: fator, fonte na organização do trabalho, grupo exposto, probabilidade, severidade, nível, medidas existentes |
-| 2 | **Instrumento de Identificação de Fatores Psicossociais** | Criar | Questionário organizacional por dimensões (carga e ritmo, jornada, autonomia, clareza de papéis, suporte da chefia, relações e assédio, reconhecimento, insegurança, violência de terceiros). Escala simples, resposta anônima, apuração agregada por setor |
-| 3 | **Critério de Avaliação e Classificação** | Criar | Matriz probabilidade × severidade com os critérios explicitados; regra de corte para o que entra obrigatoriamente no plano de ação |
-| 4 | **Modelo de Plano de Ação** | Revisar | Linhas de medida **organizacional** (redesenho de jornada, dimensionamento, escopo de função, treinamento de liderança, canal de denúncia), com responsável, prazo e indicador de eficácia |
-| 5 | **Procedimento de Gestão de Riscos Psicossociais (POP)** | Criar | Fluxo completo: quem aplica, periodicidade, tratamento dos dados, quem analisa, como vira plano de ação, como se monitora, quando reavalia. Usar o template de 15 seções com RACI e KPIs |
-| 6 | **Anexo LGPD** | Criar | Base legal, anonimização, regra de agregação mínima, retenção, descarte, quem tem acesso ao dado bruto |
-| 7 | **Matriz NR-1 × NR-17 × PCMSO** | Criar | De-para de exigência → documento do kit → evidência de auditoria. É o item que o cliente mostra para o auditor-fiscal — alto valor percebido, baixo custo de produção |
-| 8 | **Registro de Informação e Capacitação** | Criar | Lista de presença/ciência específica sobre riscos psicossociais e medidas adotadas |
+| FOR-PSI-001 | Relato de Ocorrência Psicossocial | Lista de Levantamento de Perigos | Ata de aprovação da Alta Direção |
+| FOR-PSI-003 | Ata de Análise Crítica da Direção | Planilha de indicadores (CID-F, turnover) | — |
+| FOR-PSI-004 | Termo de Compromisso da Alta Direção | Registro de observação direta | Inventário e Matriz de Classificação |
+| FOR-PSI-005 | Registro de Atendimento de Acolhimento | Ata de validação SESMT/CIPA | Inventário geral do GRO/PGR |
 
-**Estimativa:** 5 documentos novos + 2 revisões + 1 anexo. Tudo dentro dos seus templates existentes (POP 15 seções, planilhas, matriz). Sem tecnologia nova.
+Agrava: o POP-PSI-006 usa `FOR-PSI-005` para **três registros diferentes** na mesma tabela. E o problema é irregular — o POP-006 acerta os códigos 001 e 002, o que faz o esquema parecer correto até alguém cruzar.
 
----
+**Por que é crítico:** rastreabilidade documental é a promessa do produto. Um auditor-fiscal ou auditor de certificação que seguir a referência encontra documento trocado. E é o tipo de defeito que o cliente descobre depois de implantar.
 
-## 7. Controle de versão do produto
-
-Você vende documento — então o produto precisa do mesmo controle de documentos que ele ensina. Sem isso não dá para responder "essa versão está atualizada?".
-
-- **Nomenclatura:** `KIT-NR1_v3.0_2026-08`
-- **Capa de cada arquivo:** revisão, data, base normativa e a frase de escopo
-- **Histórico de alterações** no próprio kit — 1 página, o que mudou e por quê
-- **Frase de escopo padrão** na capa:
-  > *Material elaborado conforme a NR-1, capítulo 1.5, com a redação dada pela Portaria MTE nº 1.419/2024, vigente desde 25/05/2026. Documento editável, de aplicação e responsabilidade do usuário. Não substitui avaliação por profissional legalmente habilitado.*
-
-Essa frase faz três coisas ao mesmo tempo: prova atualidade, delimita responsabilidade e reforça que é material editável — não curso.
+**Correção:** separar os espaços de codificação. Formulários entregues mantêm `FOR-PSI-0XX`. Os registros internos de cada POP passam a `REG-PSI-<nºPOP>-<seq>` — ex.: `REG-PSI-001-01`. Onde o registro **é** um formulário entregue, citar o código global. Correção mecânica, alto impacto.
 
 ---
 
-## 8. Comunicação ao mercado
+### 🟠 NC-02 — Retenção de 5 anos onde a norma exige 20
+**Item 1.5.7.3.3.1**
 
-**Para a base que já comprou:** aviso de que existe versão nova, com o que mudou na norma. Sem prometer atualização gratuita e sem sugerir que ela está inclusa — regra fixa do seu padrão de comunicação.
+O POP-PSI-003 define **5 anos** para o "Inventário e Matriz de Classificação de Riscos Psicossociais (critérios, classificação por setor/função e priorização)". Esse registro **é** dado de inventário — a alínea "i" (avaliação e classificação) e a alínea "f" do 1.5.7.3.2. A NR-1 exige que o histórico das atualizações do inventário seja mantido por **no mínimo 20 anos**.
 
-**Para venda nova:** o argumento não é "atualizamos o material". É o prazo:
+O kit acerta ao marcar "Permanente" para o inventário geral integrado, mas a matriz de classificação — que é onde mora o critério e o histórico — fica em 5 anos.
 
-> *A fase educativa acabou em maio. O que antes rendia orientação do auditor-fiscal, agora rende autuação.*
-
-E o ângulo que conversa com a vertical industrial já definida no documento 02:
-
-> *Seu PGR tem ruído, calor e risco químico mapeados. Tem escala de turno, pressão de meta e rotatividade de liderança? Para a NR-1, agora é o mesmo tipo de risco.*
+**Correção:** 20 anos (ou "Permanente") para todo registro que componha o inventário ou seu histórico de atualização. Revisar a tabela de retenção dos 15 documentos: hoje há 54 ocorrências de "5 anos", 12 "Permanente", 5 "10 anos", 2 "3 anos" e apenas 2 "20 anos", sem critério declarado.
 
 ---
 
-## 9. Próximo passo — o que preciso de você
+### 🟠 NC-03 — FRPRT tratado como categoria autônoma, não como fator ergonômico
+**Itens 1.5.3.1.4 e 1.5.4.4.5.3**
 
-O protocolo acima está pronto para aplicar, mas **auditei a norma, não os arquivos** — eles não estão neste repositório. Para eu executar a auditoria de verdade e já entregar os documentos atualizados:
+A expressão "fator ergonômico" não aparece **nenhuma vez** nos 36 arquivos. O kit trata FRPRT como uma família de risco independente, com inventário próprio e paralelo ("INVENTÁRIO DE RISCOS PSICOSSOCIAIS — ESTRUTURA DO PGR").
 
-1. Suba os arquivos do kit NR-1/PGR (`.docx`, `.xlsx`) — edito o XML direto, preservando 100% da formatação.
-2. Confirme o **nome comercial exato** do produto na Hotmart/Eduzz.
-3. Confirme se existem versões **ES** e **EN** desse kit. Se existirem, elas **não** devem receber a NR-1 — norma brasileira não se traduz, se substitui pelo equivalente local. Isso é outra auditoria.
+A norma faz o oposto: coloca os FRPRT **dentro** dos fatores ergonômicos, no mesmo inventário único do PGR.
 
-Enquanto isso não chega, a auditoria nº 02 (ISO 9001:2026) pode começar pela estrutura, com a redação travando até a publicação em setembro.
+**Consequência prática:** um PGR com dois inventários paralelos é vulnerável em fiscalização — o auditor pede o inventário de riscos ocupacionais, singular, do 1.5.7.3.1.
+
+**Correção:** reposicionar como bloco de **fatores ergonômicos — FRPRT** dentro do inventário único, mantendo a planilha atual como ferramenta de trabalho. O Anexo III do POP-003 (correspondência entre matrizes) já é o embrião disso — falta o enquadramento explícito.
+
+---
+
+### 🟠 NC-04 — Critério de probabilidade não segue o que a norma determina
+**Item 1.5.4.4.5.3**
+
+A planilha usa escala genérica ("4 - Provável", "3 - Possível") — a mesma lógica de risco de acidente. Mas a NR-1 é específica: para fatores ergonômicos e FRPRT, a probabilidade deve considerar **as exigências da atividade de trabalho** e **a eficácia das medidas de prevenção implementadas**.
+
+O POP-003 chega perto: manda "estabelecer critérios próprios, distintos da matriz tradicionalmente usada para riscos físicos". Está certo na intenção, mas não ancora no critério da norma — e a planilha entregue não implementa nenhum dos dois.
+
+**Correção:** substituir a escala de probabilidade por uma ancorada nos dois vetores do 1.5.4.4.5.3, com a coluna "Medidas Existentes" (que já existe) alimentando o vetor de eficácia. Este é o item que mais eleva o nível técnico do kit — quase nenhum concorrente faz.
+
+---
+
+### 🟠 NC-05 — Inventário sem quatro dos nove campos obrigatórios
+**Item 1.5.7.3.2**
+
+| Alínea | Exigência | Planilha |
+|---|---|---|
+| a | caracterização dos processos e ambientes de trabalho | **ausente** |
+| b | caracterização das atividades | **ausente** |
+| c | descrição dos perigos, com fontes e/ou circunstâncias | ✔ |
+| d | possíveis lesões ou agravos | ✔ parcial |
+| e | grupos de trabalhadores expostos | ✔ |
+| f | medidas de prevenção implementadas | ✔ |
+| g | caracterização da exposição dos trabalhadores | **ausente** |
+| h | resultados da avaliação de ergonomia nos termos da NR-17 | **ausente** |
+| i | avaliação dos riscos, incluindo classificação | ✔ |
+
+**Correção:** quatro colunas novas. A alínea "h" é a mais relevante e leva à NC-06.
+
+---
+
+### 🟡 NC-06 — Sem vínculo operacional com a avaliação ergonômica da NR-17
+
+"AET" aparece **uma vez** em todo o kit, apenas como verbete de glossário no POP-001. "AEP" não aparece. Como a alínea "h" do 1.5.7.3.2 exige os resultados da avaliação de ergonomia no inventário, e o 1.5.3.2.1 remete expressamente à NR-17, falta a ponte que conecta o levantamento de FRPRT à avaliação ergonômica que a empresa já é obrigada a ter.
+
+**Correção:** seção no POP-001 definindo como o levantamento de FRPRT consome e alimenta a AEP/AET, e coluna de referência cruzada no inventário.
+
+---
+
+### 🟡 NC-07 — Anonimato sem piso de agregação
+
+O kit garante anonimato de forma consistente e determina resultados agregados "por setor ou equipe". Não define **número mínimo de respondentes por recorte**. Sem esse piso, um setor de três pessoas divulgado separadamente é identificável — e o dado é sensível.
+
+**Correção:** regra explícita — não divulgar recorte com menos de 5 respondentes; agregar ao nível superior quando não atingir o piso. Uma linha no POP-002 e uma trava na planilha de tabulação.
+
+---
+
+### 🟡 NC-08 — Base legal do tratamento ancorada em consentimento
+
+O POP-002 manda "obter o consentimento informado do trabalhador". Em relação de emprego, consentimento é base legal frágil: há subordinação, e ele é revogável a qualquer tempo (art. 8º, §5º da LGPD). Se o trabalhador revoga, a empresa perde a base para tratar um dado que a NR-1 **obriga** a tratar.
+
+**Correção:** declarar a base legal como **art. 11, II, "a"** — cumprimento de obrigação legal/regulatória pelo controlador, que é exatamente o caso da NR-1 — e reposicionar o consentimento informado como **transparência e ciência** (art. 9º), que é o papel legítimo dele aqui. O texto do POP-002 já manda informar "a base legal de tratamento"; basta dizer qual é.
+
+---
+
+### 🟡 NC-09 — CID extraído pelo RH sem salvaguarda de sigilo médico
+
+O POP-001 instrui "extrair, junto ao RH e ao eSocial, os afastamentos por transtornos mentais (CID-10 grupo F)". O uso é epidemiológico e agregado — correto na finalidade. Mas o CID é protegido por sigilo médico, e a expressão "sigilo médico" não aparece em nenhum dos 36 arquivos.
+
+**Correção:** rotear o dado nominal pelo médico do trabalho / PCMSO, que entrega ao PGR já agregado por setor, função e turno. Duas linhas no POP-001 — e fecha uma exposição real do cliente.
+
+---
+
+### 🟢 NC-10 — Portaria 765/2025 nunca citada
+
+O kit afirma corretamente o fim da fase educativa em 26/05/2026, mas em nenhum arquivo cita a portaria que a estabeleceu. Quem perguntar "onde está escrito?" não encontra no material.
+
+**Correção:** incluir "Portaria MTE nº 765, de 15/05/2025" nas referências normativas dos POPs e do Guia.
+
+---
+
+## 5. Plano de correção
+
+| Ordem | Ação | Arquivos | Esforço |
+|---|---|---|---|
+| 1 | Recodificar registros internos (`REG-PSI-…`) — NC-01 | 14 POPs | Médio, mecânico |
+| 2 | Corrigir retenções para 20 anos / Permanente — NC-02 | 15 docs | Baixo |
+| 3 | Enquadrar FRPRT como fator ergonômico — NC-03 | POP-001, 003, planilha, Guia, PGR | Médio |
+| 4 | Nova escala de probabilidade conforme 1.5.4.4.5.3 — NC-04 | POP-003 + planilha | Médio |
+| 5 | Quatro colunas do 1.5.7.3.2 — NC-05 | Planilha inventário | Baixo |
+| 6 | Ponte com AEP/AET — NC-06 | POP-001, planilha | Médio |
+| 7 | Piso de agregação (n≥5) — NC-07 | POP-002 + planilha | Baixo |
+| 8 | Base legal art. 11, II, "a" — NC-08 | POP-002, 006 | Baixo |
+| 9 | Sigilo médico no acesso ao CID — NC-09 | POP-001 | Baixo |
+| 10 | Citar Portaria 765/2025 — NC-10 | POPs + Guia | Baixo |
+| 11 | Inserir itens numerados da NR-1 nas referências normativas | Todos | Baixo |
+
+**Ganho de posicionamento:** as correções 3, 4 e 6 transformam o kit de "kit de riscos psicossociais" em **"o único que trata FRPRT como a NR-1 manda tratar — dentro dos fatores ergonômicos, com o critério de probabilidade do 1.5.4.4.5.3"**. Isso é diferenciação técnica verificável, não adjetivo de venda.
+
+---
+
+## 6. Versionamento
+
+- **Versão nova:** `KIT_NR1_v2.0_2026-08`
+- **Frase de escopo padrão para a capa:**
+
+  > *Material elaborado conforme a NR-1, capítulo 1.5, com as redações das Portarias MTE nº 1.419, de 27/08/2024, e nº 765, de 15/05/2025 — vigente desde 26/05/2026. Documento editável, de aplicação e responsabilidade do usuário. Não substitui avaliação por profissional legalmente habilitado.*
+
+- **Histórico de alterações** de 1 página no kit, listando as 10 correções.
+
+---
+
+## 7. Pendente — página de vendas
+
+`nr1.valeriamoura.com` está bloqueada pelo proxy de rede deste ambiente; não consegui auditar. Cole o texto da página que eu verifico contra o kit real:
+
+- datas e prazos (têm que bater com 26/05/2026)
+- quantidade de arquivos prometida × 36 entregues
+- garantias, promessas de atualização e de suporte
+- alegações numéricas sobre multas e valores
+- promessa de conformidade garantida — se houver, é exposição, porque conformidade depende da aplicação pelo cliente
+
+---
+
+## 8. Auditoria nº 02 — ISO 9001
+
+Sem alteração: a ISO 9001:2026 chegou a FDIS em abril/2026 e a publicação segue prevista para **setembro/2026**, com transição até setembro/2029. Gatilho é a publicação. Estrutura pode ser preparada antes; redação normativa, não.
 
 ---
 
 ## Fontes
 
-- [ISO 9001:2026 — Principais atualizações e orientações para a transição (SGS)](https://www.sgs.com/pt-br/showcases/iso-9001-2026-principais-atualizacoes-e-orientacoes-para-a-transicao)
-- [ISO 9001:2026 — Principais mudanças e orientações (BSI)](https://www.bsigroup.com/pt-BR/products-and-services/standards-services/iso-9001-2026-key-changes-and-guidance/)
-- [ISO 9001:2026 já passou de FDIS (facilita.etc)](https://facilita.etc.br/blog/iso-9001-2026-fdis-o-que-fazer-antes-de-setembro.html)
-- [Portaria MTE nº 1.419 — NR-01 GRO, nova redação (gov.br)](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/sst-portarias/2024/portaria-mte-no-1-419-nr-01-gro-nova-redacao.pdf)
+- NR-1 consolidada, texto atualizado 2025 (arquivo fornecido) — itens 1.5.3.1.4, 1.5.3.2.1, 1.5.4.4.5.3, 1.5.7.3.2 e 1.5.7.3.3.1
+- [Portaria MTE nº 1.419/2024 (gov.br)](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/sst-portarias/2024/portaria-mte-no-1-419-nr-01-gro-nova-redacao.pdf)
 - [Portaria MTE nº 765/2025 — prorrogação da vigência (Senior)](https://documentacao.senior.com.br/exigenciaslegais/noticias/trabalhista-previdenciaria/2025/2025-05-16-prorrogacao-riscos-psicossociais/)
 - [MTE prorroga gestão dos riscos psicossociais para maio de 2026 (CBIC)](https://cbic.org.br/relacoestrabalhistas/radar-trabalhista-mte-prorroga-gestao-dos-riscos-psicossociais-para-maio-de-2026/)
-- [Fatores psicossociais: MTE estende prazo para vigência de mudança na NR-1 (ANAMT)](https://www.anamt.org.br/portal/2025/05/19/fatores-psicossociais-mte-estende-prazo-para-vigencia-de-mudanca-na-nr-1/)
-- [NR-1: fiscalização de riscos psicossociais começa em maio de 2026 (Contábeis)](https://www.contabeis.com.br/noticias/76376/nr-1-fiscalizacao-de-riscos-psicossociais-comeca-em-maio-de-2026/)
-- [Guia de Informações sobre os Fatores de Riscos Psicossociais Relacionados ao Trabalho (MTE, via Cofen)](https://biblioteca.cofen.gov.br/guia-de-informacoes-sobre-os-fatores-de-riscos-psicossociais-relacionados-ao-trabalho/)
+- [ISO 9001:2026 já passou de FDIS (facilita.etc)](https://facilita.etc.br/blog/iso-9001-2026-fdis-o-que-fazer-antes-de-setembro.html)
+- [ISO 9001:2026 — orientações para a transição (SGS)](https://www.sgs.com/pt-br/showcases/iso-9001-2026-principais-atualizacoes-e-orientacoes-para-a-transicao)
