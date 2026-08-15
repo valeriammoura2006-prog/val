@@ -1,7 +1,7 @@
 # Auditoria de Produto nº 01 — Kit NR-1 Riscos Psicossociais
 
 **Data:** 14/08/2026
-**Produto:** KIT_NR1_RISCOS_PSICOSSOCIAIS — 36 arquivos (14 POPs, 7 formulários, 9 ferramentas, 6 bônus)
+**Produto:** KIT_NR1_RISCOS_PSICOSSOCIAIS — 37 arquivos (14 POPs, 7 formulários, 10 ferramentas, 6 bônus)
 **Norma de referência:** NR-1 consolidada (texto atualizado 2025), com as redações das Portarias MTE nº 1.419, de 27/08/2024, e nº 765, de 15/05/2025
 **Status:** auditoria **executada** sobre os arquivos reais
 
@@ -11,7 +11,7 @@
 
 ## 1. Método
 
-Extração integral do texto dos 36 arquivos (docx/xlsx/pptx) e varredura cruzada contra o texto consolidado da NR-1. Foram verificados: base legal citada, datas de vigência, numeração de itens da norma, campos obrigatórios do inventário, critérios de avaliação de risco, prazos de retenção, integridade de referências cruzadas entre documentos, tratamento de dados pessoais sensíveis e delimitação de escopo clínico.
+Extração integral do texto dos 37 arquivos (docx/xlsx/pptx) e varredura cruzada contra o texto consolidado da NR-1. Foram verificados: base legal citada, datas de vigência, numeração de itens da norma, campos obrigatórios do inventário, critérios de avaliação de risco, prazos de retenção, integridade de referências cruzadas entre documentos, tratamento de dados pessoais sensíveis e delimitação de escopo clínico.
 
 ---
 
@@ -46,7 +46,7 @@ Auditoria não é só lista de defeito. Estes pontos estão conformes e vários 
 
 | Verificação | Resultado |
 |---|---|
-| Portaria 1.419/2024 citada | ✔ 60 ocorrências, em 25 dos 36 arquivos |
+| Portaria 1.419/2024 citada | ✔ 60 ocorrências, em 25 dos 37 arquivos |
 | Data de vigência correta e consistente | ✔ 26/05/2026 em 19 ocorrências, **zero** ocorrências de data antiga |
 | Nenhum resíduo de "fase educativa em curso" | ✔ todas as menções estão no passado, corretamente |
 | LGPD | ✔ art. 5º, II e art. 11 citados, DPO, dado sensível, acesso restrito, trilha de auditoria |
@@ -99,7 +99,7 @@ O kit acerta ao marcar "Permanente" para o inventário geral integrado, mas a ma
 ### 🟠 NC-03 — FRPRT tratado como categoria autônoma, não como fator ergonômico
 **Itens 1.5.3.1.4 e 1.5.4.4.5.3**
 
-A expressão "fator ergonômico" não aparece **nenhuma vez** nos 36 arquivos. O kit trata FRPRT como uma família de risco independente, com inventário próprio e paralelo ("INVENTÁRIO DE RISCOS PSICOSSOCIAIS — ESTRUTURA DO PGR").
+A expressão "fator ergonômico" não aparece **nenhuma vez** nos 37 arquivos. O kit trata FRPRT como uma família de risco independente, com inventário próprio e paralelo ("INVENTÁRIO DE RISCOS PSICOSSOCIAIS — ESTRUTURA DO PGR").
 
 A norma faz o oposto: coloca os FRPRT **dentro** dos fatores ergonômicos, no mesmo inventário único do PGR.
 
@@ -165,7 +165,7 @@ O POP-002 manda "obter o consentimento informado do trabalhador". Em relação d
 
 ### 🟡 NC-09 — CID extraído pelo RH sem salvaguarda de sigilo médico
 
-O POP-001 instrui "extrair, junto ao RH e ao eSocial, os afastamentos por transtornos mentais (CID-10 grupo F)". O uso é epidemiológico e agregado — correto na finalidade. Mas o CID é protegido por sigilo médico, e a expressão "sigilo médico" não aparece em nenhum dos 36 arquivos.
+O POP-001 instrui "extrair, junto ao RH e ao eSocial, os afastamentos por transtornos mentais (CID-10 grupo F)". O uso é epidemiológico e agregado — correto na finalidade. Mas o CID é protegido por sigilo médico, e a expressão "sigilo médico" não aparece em nenhum dos 37 arquivos.
 
 **Correção:** rotear o dado nominal pelo médico do trabalho / PCMSO, que entrega ao PGR já agregado por setor, função e turno. Duas linhas no POP-001 — e fecha uma exposição real do cliente.
 
@@ -215,7 +215,7 @@ O kit afirma corretamente o fim da fase educativa em 26/05/2026, mas em nenhum a
 `nr1.valeriamoura.com` está bloqueada pelo proxy de rede deste ambiente; não consegui auditar. Cole o texto da página que eu verifico contra o kit real:
 
 - datas e prazos (têm que bater com 26/05/2026)
-- quantidade de arquivos prometida × 36 entregues
+- quantidade de arquivos prometida × 37 entregues (o COMECE_POR_AQUI diz "36 arquivos" + ele próprio — defensável, mas escolha um número e use o mesmo na página)
 - garantias, promessas de atualização e de suporte
 - alegações numéricas sobre multas e valores
 - promessa de conformidade garantida — se houver, é exposição, porque conformidade depende da aplicação pelo cliente
