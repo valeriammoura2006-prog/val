@@ -1,9 +1,7 @@
 # Produto — Kit de Manuais da Qualidade por Segmento
 
 **Valéria Moura · Gestão da Qualidade**
-Grand Slam Offer (frameworks $100M Offers): avatar, divergência, stack, amplificadores, nome, preço e plano de produção.
-
-Encaixe na estratégia: este produto é o **degrau 0** do plano (doc 00 §6). Vende sozinho e alimenta a consultoria de arquitetura documental (doc 02).
+Grand Slam Offer (frameworks $100M Offers) em **ticket baixo: teto de R$ 147 por produto**.
 
 ---
 
@@ -28,10 +26,10 @@ Encaixe na estratégia: este produto é o **degrau 0** do plano (doc 00 §6). Ve
 | Quem é | Dono ou analista da qualidade solo de PME | Consultor autônomo ou pequena consultoria |
 | Quantos segmentos usa | **1** (o dele) | **Vários** (um por cliente) |
 | Como enxerga um kit com 6 segmentos | Paga por 5 que não usa, e o kit parece genérico | Ganha uma biblioteca: cada manual vira um cliente atendido |
-| O que comprar | **Manual do segmento dele** | **Licença Profissional** com todos os segmentos |
+| O que comprar | **Manual do segmento dele** (R$ 47 a R$ 147) | **Biblioteca Profissional** (R$ 147) |
 
 - **Decisão:** a mesma produção sai em **duas embalagens**:
-  - **por segmento** para a empresa final, com página e anúncio próprios (nicho = preço maior)
+  - **por segmento** para a empresa final, com página e anúncio próprios
   - **biblioteca completa** para o consultor, com licença de uso comercial
 - Vender "kit com manuais de vários segmentos" para a empresa final é o erro clássico: o valor percebido cai e o produto vira commodity.
 
@@ -39,12 +37,12 @@ Encaixe na estratégia: este produto é o **degrau 0** do plano (doc 00 §6). Ve
 
 | Indicador | Empresa final | Consultor |
 |---|---|---|
-| Dor massiva | Prazo de homologação, licitação ou auditoria. Sem o documento, perde contrato | Escrever cada manual do zero consome dias e corta a margem |
-| Poder de compra | CNPJ, ticket de R$ 197 a R$ 497 é decisão de uma pessoa | Um único cliente paga a licença |
+| Dor massiva | Prazo de homologação, licitação ou auditoria. Sem o documento, perde contrato | Escrever cada manual do zero consome dias |
+| Poder de compra | Ticket de até R$ 147 é compra por impulso para CNPJ | Um único cliente paga a biblioteca várias vezes |
 | Fácil de alcançar | Meta Ads com chamada por segmento + base atual | Base atual (quem comprou kits de vários segmentos) + Instagram/LinkedIn |
 | Em crescimento | **ISO 9001:2026 publicada** + ciclo de transição obriga revisão de documentos | Mesma onda: todo cliente do consultor vai precisar revisar |
 
-> **Dica de dado:** na sua base, quem comprou kits de **segmentos diferentes** é quase sempre consultor. Esse é o primeiro público da Licença Profissional.
+> **Dica de dado:** na sua base, quem comprou kits de **segmentos diferentes** é quase sempre consultor. Esse é o primeiro público da Biblioteca Profissional.
 
 ---
 
@@ -56,6 +54,8 @@ Encaixe na estratégia: este produto é o **degrau 0** do plano (doc 00 §6). Ve
 | ↑ Probabilidade percebida | Texto escrito **para o segmento** (processos, riscos, KPIs e partes interessadas do setor), páginas de amostra na página de vendas, matriz de correlação com as cláusulas |
 | ↓ Tempo | Acesso imediato. Vitória em 1 tarde: manual com nome, logo e escopo da empresa |
 | ↓ Esforço | Campos destacados, guia de preenchimento, versão resumida pronta para enviar ao cliente |
+
+Em ticket baixo, o peso está no denominador: **pronto, imediato e sem esforço**. É isso que faz R$ 147 parecer barato perto de um consultor.
 
 ---
 
@@ -76,17 +76,17 @@ Encaixe na estratégia: este produto é o **degrau 0** do plano (doc 00 §6). Ve
 | 11 | "O auditor pergunta a política pro operador e ninguém sabe" | Divulgação com evidência | Quadro da política + **Treinamento-Relâmpago** com lista de presença |
 | 12 | "A ISO 9001:2026 saiu e meu manual cita a 2015" | Correlação entre versões | Matriz de correlação cláusula × seção do manual (2015 → 2026) |
 | 13 | "Não sei o que o auditor confere no manual" | Antecipar a auditoria | **Checklist Auditor-Proof** |
-| 14 | "O manual cita procedimentos que eu não tenho" | Procedimentos base junto | Kit ISO 9001 base (já existe no catálogo) no plano maior |
+| 14 | "O manual cita procedimentos que eu não tenho" | Procedimentos base junto | 6 procedimentos essenciais do SGQ no plano maior |
 | 15 | "Não controlo versão de nada" | Controle documental | Lista mestra de documentos (Excel) |
-| 16 | "Sou sozinho na qualidade" | Menos esforço + revisão externa | Guia + upsell **Revisão Express** |
-| 17 | "Tenho medo de errar na frente do cliente" | Revisão por especialista | Revisão Express (vagas limitadas) |
-| 18 | "Não tenho tempo nem de preencher" | Feito para você | **Manual Feito Para Você** (alto ticket) |
+| 16 | "Sou sozinho na qualidade" | Menos esforço | Guia de preenchimento + exemplos preenchidos |
+| 17 | "Tenho NC aberta e não sei tratar" | Método de tratativa | Upsell: Tratativa PRO (catálogo) |
+| 18 | "Faço alimentos e também me pedem boas práticas" | Documento irmão | Order bump: Manual de Boas Práticas |
 | 19 | "Meu cliente é estrangeiro" | Versão em outro idioma | Order bump: manual em EN ou ES (arquivos separados, lote 2) |
 | 20 | "Não sei como enviar o manual pro cliente" | Texto de apresentação pronto | Carta de apresentação do SGQ (dentro do Kit Homologação) |
 | 21 | "Tenho medo de não conseguir abrir ou editar" | Formato universal | Word/Excel sem macro, compatível com Google Docs e LibreOffice |
 | 22 | "E se não servir?" | Risco zero | Garantia nomeada de 7 dias |
 | 23 | "Meu segmento não está na lista" | Lista de espera | Formulário "quero o meu segmento" (valida o próximo lote) |
-| 24 | *(consultor)* "Perco dias escrevendo manual do zero a cada cliente" | Biblioteca multissegmento | **Licença Profissional** |
+| 24 | *(consultor)* "Perco dias escrevendo manual do zero a cada cliente" | Biblioteca multissegmento | **Biblioteca Profissional** |
 | 25 | *(consultor)* "Posso usar com meus clientes?" | Regra clara | Termo de licença: uso com clientes liberado, revenda do modelo proibida |
 | 26 | *(consultor)* "Preciso entregar com a minha cara" | Documento sem marca | Arquivos sem identidade visual no corpo, prontos para a marca do cliente |
 
@@ -96,42 +96,44 @@ Encaixe na estratégia: este produto é o **degrau 0** do plano (doc 00 §6). Ve
 
 ### O que fica e o que sai
 
+Em ticket baixo, **tudo que exige o seu tempo sai**. Só fica o que é entregue por download.
+
 | Item | Valor percebido | Custo de entrega | Decisão |
 |---|---|---|---|
 | Manual do segmento + planilhas | Alto | ~Zero após produzir | **Núcleo** |
 | Manual de Bolso, Checklist, Kit Homologação | Alto | Zero | **Bônus** |
-| Kit ISO 9001 base | Alto | Zero (já existe) | **Plano maior** |
-| Revisão do manual preenchido | Muito alto | Médio (seu tempo) | **Upsell com vagas** |
-| Manual feito por você | Altíssimo | Alto | **Alto ticket, vagas por mês** |
+| 6 procedimentos essenciais do SGQ | Alto | Zero (já existem) | **Plano maior** |
+| Produtos do catálogo (Auditoria Interna, Tratativa PRO, Boas Práticas) | Alto | Zero | **Order bump e upsell** |
+| Revisão do manual pelo especialista | Muito alto | Alto (seu tempo) | Cortar |
+| Manual feito sob medida | Altíssimo | Muito alto | Cortar |
 | Grupo de WhatsApp de suporte | Médio | Alto e contínuo | Cortar |
 | Aulas em vídeo / curso | Baixo para este público | Médio | Cortar (não é curso) |
-| Certificado | Baixo | Baixo | Cortar |
 | "Atualização grátis quando a norma mudar" | Alto | Ilimitado | **Proibido** (regra fixa) |
 
 ### Stack por plano (valor declarado)
 
 | Item | Valor declarado | Essencial | Completo | SGQ Completo |
 |---|---|:-:|:-:|:-:|
-| Manual da Qualidade do segmento (Word, 20–30 p.) | R$ 900 | ✓ | ✓ | ✓ |
-| Política da Qualidade: 3 modelos + quadro para afixar | R$ 150 | ✓ | ✓ | ✓ |
-| Mapa de interação de processos editável | R$ 250 | ✓ | ✓ | ✓ |
-| Guia Personalize em 1 Tarde | R$ 200 | ✓ | ✓ | ✓ |
-| Matriz de riscos e oportunidades pré-preenchida | R$ 350 | | ✓ | ✓ |
-| Objetivos e indicadores com painel (Excel) | R$ 300 | | ✓ | ✓ |
-| Matriz de partes interessadas | R$ 150 | | ✓ | ✓ |
-| Lista mestra de documentos | R$ 150 | | ✓ | ✓ |
-| Matriz de correlação ISO 9001 2015 → 2026 | R$ 300 | | ✓ | ✓ |
-| 🎁 Manual de Bolso (4 páginas) | R$ 197 | | ✓ | ✓ |
-| 🎁 Checklist Auditor-Proof | R$ 197 | | ✓ | ✓ |
-| 🎁 Kit Homologação Express | R$ 397 | | | ✓ |
-| 🎁 Treinamento-Relâmpago da Política | R$ 247 | | | ✓ |
-| Kit ISO 9001 base (procedimentos e formulários) | R$ 997 | | | ✓ |
-| **Valor total declarado** | | **R$ 1.500** | **R$ 3.144** | **R$ 4.785** |
-| **Preço** | | **R$ 197** | **R$ 297** | **R$ 497** |
-| **Múltiplo valor/preço** | | 7,6× | 10,6× | 9,6× |
+| Manual da Qualidade do segmento (Word, 20–30 p.) | R$ 297 | ✓ | ✓ | ✓ |
+| Política da Qualidade: 3 modelos + quadro para afixar | R$ 47 | ✓ | ✓ | ✓ |
+| Mapa de interação de processos editável | R$ 67 | ✓ | ✓ | ✓ |
+| Guia Personalize em 1 Tarde | R$ 37 | ✓ | ✓ | ✓ |
+| Matriz de riscos e oportunidades pré-preenchida | R$ 97 | | ✓ | ✓ |
+| Objetivos e indicadores com painel (Excel) | R$ 97 | | ✓ | ✓ |
+| Matriz de partes interessadas | R$ 47 | | ✓ | ✓ |
+| Lista mestra de documentos | R$ 47 | | ✓ | ✓ |
+| Matriz de correlação ISO 9001 2015 → 2026 | R$ 97 | | ✓ | ✓ |
+| 🎁 Manual de Bolso (4 páginas) | R$ 47 | | ✓ | ✓ |
+| 🎁 Checklist Auditor-Proof | R$ 47 | | ✓ | ✓ |
+| 🎁 Kit Homologação Express | R$ 97 | | | ✓ |
+| 🎁 Treinamento-Relâmpago da Política | R$ 67 | | | ✓ |
+| 6 procedimentos essenciais do SGQ | R$ 197 | | | ✓ |
+| **Valor total declarado** | | **R$ 448** | **R$ 927** | **R$ 1.288** |
+| **Preço** | | **R$ 47** | **R$ 97** | **R$ 147** |
+| **Múltiplo valor/preço** | | 9,5× | 9,6× | 8,8× |
 
 - Destaque na página: **SGQ Completo** ("Mais Popular"), seguindo a regra do plano mais caro.
-- Ajuste o valor do Kit ISO 9001 base para o preço real em que ele é vendido avulso no catálogo.
+- **6 procedimentos essenciais:** controle de documentos, auditoria interna, não conformidade e ação corretiva, análise crítica pela direção, competência e treinamento, avaliação de fornecedores. Se o Kit ISO 9001 avulso custa perto de R$ 147, use só esses 6 para não canibalizar o kit.
 
 ---
 
@@ -146,19 +148,13 @@ Encaixe na estratégia: este produto é o **degrau 0** do plano (doc 00 §6). Ve
 | 🎁 **Checklist Auditor-Proof** | "não sei o que o auditor confere" | Itens que o auditor verifica no manual e na divulgação da política |
 | 🎁 **Treinamento-Relâmpago da Política** | "o operador não sabe a política" | Apresentação de 15 min + lista de presença + quiz de 5 perguntas |
 
-### Escassez (só a real)
+### Escassez e urgência (sem depender do seu tempo)
 
-- **Revisão Express:** 10 vagas por mês (limite real de capacidade)
-- **Manual Feito Para Você:** 4 vagas por mês
-- **Licença Profissional — Lote Fundador:** 50 licenças a R$ 997, depois R$ 1.497
-
-### Urgência (só a legítima)
-
+- **Semana de lançamento de cada segmento:** Treinamento-Relâmpago entra também no plano Completo só até domingo 23h59
+- **Lote de lançamento da Biblioteca Profissional:** os 100 primeiros levam o Kit Homologação de todos os segmentos
 - **ISO 9001:2026 publicada** (LRQA informa publicação em 16/09/2026 e transição de 3 anos, até ~30/09/2029)
   - ⚠️ confirmar datas no IAF e no organismo certificador antes de publicar qualquer página
   - ⚠️ só anunciar "alinhado à ISO 9001:2026" depois de conferir o conteúdo com o **texto oficial** da norma
-- **Semana de lançamento de cada segmento:** bônus Treinamento-Relâmpago só até domingo 23h59
-- Ciclos de auditoria de manutenção e planejamento de fim de ano (calendário do cliente)
 
 ### Garantia
 
@@ -184,22 +180,39 @@ Encaixe na estratégia: este produto é o **degrau 0** do plano (doc 00 §6). Ve
 
 ---
 
-## 7. Escada de preço
+## 7. Escada de preço (teto R$ 147)
 
-| Degrau | Oferta | Preço | Tipo |
-|---|---|---|---|
-| Isca | Lista de espera "quero o meu segmento" | Grátis | Captura + validação de demanda |
-| Entrada | Essencial | R$ 197 | Faça você mesmo |
-| Core | Completo | R$ 297 | Faça você mesmo |
-| Premium ⭐ | SGQ Completo | R$ 497 | Faça você mesmo + kit base |
-| Order bump | Kit Auditoria Interna (já existe) | R$ 67 | Complemento |
-| Upsell 1 | Revisão Express do manual preenchido (devolutiva escrita em 5 dias úteis) | R$ 397 | Feito com você |
-| Upsell 2 | Manual Feito Para Você (questionário + call de 60 min + 1 rodada de ajuste) | R$ 1.497 | Feito para você |
-| Topo | Diagnóstico Documental → Documentação Blindada (doc 02) | R$ 697+ | Consultoria |
-| Linha consultor | Licença Profissional (todos os segmentos, plano SGQ Completo, uso comercial) | R$ 1.497 (fundador R$ 997) | Biblioteca |
+Em ticket baixo, o lucro não está no produto da frente. Está no **ticket médio**: order bump + upsell + cross-sell por e-mail.
 
-- **Configuração na plataforma:** 1 produto por segmento, com 3 ofertas (planos). Pixel e página próprios por segmento. Licença Profissional é produto separado.
-- **ROI do consultor:** um único manual entregue a cliente (honorário de mercado na casa de R$ 1.500 ou mais, valide com cotações) paga a licença.
+| Degrau | Oferta | Preço |
+|---|---|---|
+| Isca | Lista de espera "quero o meu segmento" | Grátis |
+| Entrada | Essencial | R$ 47 |
+| Core | Completo | R$ 97 |
+| Premium ⭐ | SGQ Completo | R$ 147 |
+| Order bump | Kit Auditoria Interna (ou Manual de Boas Práticas no segmento de alimentos) | R$ 27 a R$ 37 |
+| Upsell 1 clique | Tratativa PRO ou Kit ISO 9001 completo (preço especial pós-compra) | até R$ 147 |
+| Downsell | Versão reduzida do upsell | R$ 47 a R$ 67 |
+| Cross-sell D+7 | E-mail consultivo com material complementar (skill recomendar-material) | catálogo |
+| Linha consultor | Biblioteca Profissional: todos os segmentos do lote 1 no nível Completo + licença comercial | R$ 147 |
+| Expansão consultor | Cada segmento novo para quem já tem a biblioteca | R$ 47 |
+
+- **Expansão vendida, não gratuita:** a biblioteca inclui os segmentos disponíveis na data da compra. Segmento novo é produto novo (regra de não prometer atualização).
+- **Configuração na plataforma:** 1 produto por segmento, com 3 ofertas (planos). Pixel e página próprios por segmento. Biblioteca Profissional é produto separado.
+
+### Conta do ticket médio (exemplo, troque pelos seus números)
+
+| Componente | Conta | Valor |
+|---|---|---|
+| Frente (mix de planos) | média estimada | R$ 110 |
+| Order bump | R$ 37 × 30% de adesão | R$ 11 |
+| Upsell | R$ 97 × 12% de adesão | R$ 12 |
+| **Ticket médio bruto** | | **R$ 133** |
+| Taxa da plataforma (~10%) | | − R$ 13 |
+| **Teto de CPA para empatar** | | **~R$ 120** |
+
+- Meta de CPA no teste: **até metade do teto** para sobrar lucro.
+- Se o CPA passar do teto, mexa na ordem: criativo → página → bump/upsell. Não baixe o preço.
 
 ---
 
@@ -209,9 +222,9 @@ Encaixe na estratégia: este produto é o **degrau 0** do plano (doc 00 §6). Ve
 
 | Segmento | Gatilho de compra | Por que entra |
 |---|---|---|
-| Metalmecânica e usinagem | Homologação por cliente (automotivo, agrícola, máquinas) | Sua vertical com experiência real (doc 02) |
+| Metalmecânica e usinagem | Homologação por cliente (automotivo, agrícola, máquinas) | Sua vertical com experiência real |
 | Plásticos e embalagens | Homologação por indústria de alimentos e cosméticos | Exigência de cliente constante |
-| Alimentos e bebidas (indústria) | Auditoria de cliente e varejo | Ticket bom + order bump natural (Manual de Boas Práticas é outro documento) |
+| Alimentos e bebidas (indústria) | Auditoria de cliente e varejo | Order bump natural (Manual de Boas Práticas é outro documento) |
 | Construção civil | PBQP-H (SiAC), licitação | Exigência formal de sistema documentado |
 | Transporte e logística | Cadastro em embarcador, SASSMAQ (químicos) | Homologação recorrente |
 | Prestadores de serviço (facilities, manutenção, limpeza) | Licitação e contratos com grandes empresas | Volume alto de empresas pequenas |
@@ -224,11 +237,11 @@ Encaixe na estratégia: este produto é o **degrau 0** do plano (doc 00 §6). Ve
 - Laboratórios de ensaio e calibração (ISO/IEC 17025)
 - Gráficas
 - Móveis e marcenaria industrial
-- Autopeças (IATF 16949 exige manual: edição premium, com revisão técnica reforçada)
+- Autopeças (IATF 16949 exige manual: revisão técnica reforçada)
 
 ### Fora deste kit
 
-- **Saúde:** o manual da área entra no **Combo Documentos Operacionais - Área da Saúde** (produto guarda-chuva), como item ou upsell, sem promessa de consultoria.
+- **Saúde:** o manual da área entra no **Combo Documentos Operacionais - Área da Saúde** (produto guarda-chuva), como item ou order bump.
 
 ---
 
@@ -283,16 +296,17 @@ Com o manual-mestre pronto, cada segmento novo leva cerca de **1 dia de produç�
 - [ ] Produzir metalmecânica + 1 segmento de serviço (manual, planilhas, bônus)
 - [ ] Cronometrar 3 preenchimentos reais (valida o "em 1 tarde")
 - [ ] Mockups e páginas de amostra; página-modelo com variável de segmento
+- [ ] Configurar order bump e upsell no checkout
 - [ ] Criativos com chamada por segmento
 
 ### Semana 3: teste de tráfego
 - [ ] Meta Ads: 1 conjunto por segmento, R$ 30 a 50/dia, 7 dias
-- [ ] Acompanhar CTR, CPC, conversão da página e CPA vs. ticket médio
+- [ ] Acompanhar CTR, CPC, conversão da página, adesão ao bump e CPA vs. ticket médio
 - [ ] Lista de espera ativa na página ("não achou seu segmento?")
 
 ### Semana 4: escalar
 - [ ] Escalar o segmento vencedor; produzir os outros 4 do lote 1
-- [ ] Abrir Licença Profissional (Lote Fundador) para a lista de consultores por e-mail
+- [ ] Abrir a Biblioteca Profissional para a lista de consultores por e-mail
 - [ ] A partir daí: +2 segmentos por mês, escolhidos pela lista de espera
 
 ### Ângulos de criativo
@@ -301,6 +315,7 @@ Com o manual-mestre pronto, cada segmento novo leva cerca de **1 dia de produç�
 - "Seu cliente mandou o questionário de homologação. Você tem até sexta."
 - "Manual com [NOME DA EMPRESA] em todo canto: o auditor percebe em 2 minutos."
 - "Manual de 80 páginas que ninguém lê não é sistema, é papel."
+- "Um consultor cobra pelo manual o que você vai pagar em 10 anos de kit." *(validar com cotações)*
 - "A ISO 9001:2026 saiu. Seu manual ainda fala da 2015?" *(só após validar o texto 2026)*
 
 ---
@@ -311,7 +326,7 @@ Com o manual-mestre pronto, cada segmento novo leva cerca de **1 dia de produç�
 - Não prometer atualização gratuita, nem por revisão da norma nem por mudança legal
 - Requisitos legais sempre como referência na data de emissão
 - "Alinhado à ISO 9001:2026" só após conferência com o texto oficial
-- Licença Profissional com termo escrito: uso com clientes liberado, revenda do modelo proibida
+- Biblioteca Profissional com termo escrito: uso com clientes liberado, revenda do modelo proibida
 - PT, ES e EN em arquivos separados, nunca misturados
 - Marca pública: Valéria Moura · Gestão da Qualidade
 
@@ -319,4 +334,4 @@ Com o manual-mestre pronto, cada segmento novo leva cerca de **1 dia de produç�
 
 **Fonte da data de publicação da ISO 9001:2026:** [LRQA — ISO 9001:2026 is live, the transition period has begun](https://www.lrqa.com/en-au/latest-news/iso-90012026-is-live-the-transition-period-has-begun/) · [Effivity — ISO 9001:2026 transition timeline](https://www.effivity.com/blog/iso-9001-2026-transition-timeline)
 
-*Documento de trabalho. Valide preços, valores declarados e prazos com dados reais antes de publicar qualquer página.*
+*Documento de trabalho. Valide preços, valores declarados e taxas de adesão com dados reais antes de publicar qualquer página.*
