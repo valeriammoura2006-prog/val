@@ -28,3 +28,11 @@ Rosa Amazônica, PIXEL HOTELARIA, E-book Produtividade, RDC 63 2025, PIXEL CCIH,
 
 ## Pendente
 - Ler os posts https://www.instagram.com/p/Der2No_oHim/ e https://www.instagram.com/p/Dekgb1uBH6q/ (Instagram está bloqueado na rede da sessão; precisa de print ou da legenda)
+
+## Atualização 21/10/2026
+- Painel ao vivo: https://claude.ai/artifact/LxD5TYgjGY5418MwFskWCx
+- CAPI voltou: ATENÇÃO BÁSICA 2025, PIXEL TI INGLES, SOC 2 INGLES, JURÍDICO
+- Ainda parada: ALIMENTÍCIO, PIXEL FACILITIES, PIXEL COMERCIAL, FACILITIES ESP, ALBERGUE ESP, EXTERIOR ESP, COMERCIAL ESP, 45001 ESP; CCIH 2026 segue sem CAPI
+- Pixels mortos renomeados/reaproveitados: Rosa Amazônica → PLANILHAS PT, PIXEL HOTELARIA → AUDITORIA INTERNA 360, PIXEL ESTÉTICA → 45001 INGLES, E-book Produtividade → SEMANA QUALIDADE, RDC 63/PIXEL CCIH/PACK ISO → USAR 4/5/6
+- ONA (7 dias): 33 Purchase do servidor vs 12 do navegador
+- ISO 9001: fbc subiu para 50%
